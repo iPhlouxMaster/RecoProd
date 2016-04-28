@@ -1,12 +1,12 @@
-"Recommender System for Consumer Products"(RecoProd)
+" Content Recommender System "(Filmfundr)
 ============================================================================
 
 About the Project
 ------------------
 ------------------
 
-RecoProd- a recommender system which uses sentiment analysis techniques to provide
-the best products for the customers is proposed. The techniques involved in Sentiment
+Filmfundr - a Content selection and reccomendation system which uses sentiment analysis techniques to provide
+the best types of content based on content demo prefernces. The techniques involved in Sentiment
 Analysis are used to classify the reviews by the sentiment of the words into positive or
 negative. Using the sentiment expressed in the words, opinions on any entity can be
 categorized into positive or negative.
